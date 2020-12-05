@@ -1,0 +1,107 @@
+[33mcommit 2f563076e6ea4ac93766cb121da56b0ae953ada7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Dec 3 17:12:48 2020 -0500
+
+    React Redux Form Validation
+
+[33mcommit 61bc1eeeef1e1f9ea007c86050407191a60c650c[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Dec 3 15:52:22 2020 -0500
+
+    React Redux Form
+
+[33mcommit 15b1718271a17564dcda82b5dbab0543a99aebdd[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Dec 3 14:43:07 2020 -0500
+
+    Intro to Redux
+
+[33mcommit 05b59abced515440da48cd77f9672797a9887871[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Wed Dec 2 22:17:35 2020 -0500
+
+    Uncontrolled Form
+
+[33mcommit d44d5a798103de5a8d795818c6113803fee2c45f[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Wed Dec 2 20:17:55 2020 -0500
+
+    Controlled Form Validation
+
+[33mcommit e76b26571f4eae7cfe58b0ada87af39fa0cf902b[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Wed Dec 2 15:52:23 2020 -0500
+
+    Controlled Forms
+
+[33mcommit 62fb553ba90516dc3e87b4d15786fe8d68a1c66c[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Sat Nov 28 11:39:23 2020 -0500
+
+    Week 3 Workshop
+
+[33mcommit 713f3eb21d95ce683d719b77a2fb52e9779a0381[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Nov 26 21:59:53 2020 -0500
+
+    Breadcrumbs
+
+[33mcommit 4983426d20ea80a06e6cb11d6f529c9e54f8bba1[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Nov 26 21:37:20 2020 -0500
+
+    React Router Parameters
+
+[33mcommit 65f8c8716e1b3cdf5c6ef17c8009ec56af28be07[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Nov 26 20:57:28 2020 -0500
+
+    Adding to the Single Page App
+
+[33mcommit 6c71422941b985792c16d82e6206f72d17d5a761[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Nov 26 19:05:02 2020 -0500
+
+    React Router
+
+[33mcommit a988b8f020251f938d3d16b0cb782c2882ede839[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Thu Nov 26 18:21:31 2020 -0500
+
+    Header and Footer
+
+[33mcommit dde12932b7db758ec278803307ad544b5b6b5c0c[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Tue Nov 24 17:56:05 2020 -0500
+
+    Functional Components
+
+[33mcommit 7ff5c481c19b7f6ba3ebd5c7aa3795969a7f8415[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Tue Nov 24 16:32:45 2020 -0500
+
+    Presentational and Container Components
+
+[33mcommit cb1f0b76b8c5914ac3acf5cb57dd8cd5723315fa[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Sat Nov 21 13:07:51 2020 -0500
+
+    React Campsite Week 2
+
+[33mcommit faeafdfee44f5560b91ac6d19faeaec4ae0fb9aa[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Tue Nov 17 13:02:20 2020 -0500
+
+    Components Part 2
+
+[33mcommit e197866649d3f5e757c3a2cbb2980bb7157a8a68[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Tue Nov 17 11:32:21 2020 -0500
+
+    Components Part 1
+
+[33mcommit 0bddbb146f2a25302c4f000afcea462a76931b49[m
+Author: Jeremy Hotalen <hotalenjeremy@gmail.com>
+Date:   Mon Nov 16 16:08:02 2020 -0500
+
+    Initialize project using Create React App

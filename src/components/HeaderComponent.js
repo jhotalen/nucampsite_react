@@ -69,7 +69,7 @@ class Header extends Component {
 
         <Navbar dark sticky="top" expand="md">
           <div className="container">
-            <NavbarBrand className="mr-auto" href="/">
+          <NavbarBrand className="mr-auto" href="/">
               <img
                 src="/assets/images/logo.png"
                 height="30"
@@ -77,7 +77,7 @@ class Header extends Component {
                 alt="NuCamp Logo"
               />
             </NavbarBrand>
-            <NavbarToggler onClick={this.toggleNav} />
+            <NavbarToggler onClick={this.toggleNav}/>
             <Collapse isOpen={this.state.isNavOpen} navbar>
               <Nav navbar>
                 <NavItem>

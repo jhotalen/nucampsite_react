@@ -11,6 +11,8 @@ function RenderCard({ item, isLoading, errMess }) {
   if (errMess) {
     return <h4>{errMess}</h4>;
   }
+  console.log("Test", item)
+  console.log("Test", baseUrl)
   return (
     <FadeTransform
       in
@@ -30,6 +32,7 @@ function RenderCard({ item, isLoading, errMess }) {
 }
 
 function Home(props) {
+  console.log(props)
   return (
     <div className="container">
       <div className="row">
